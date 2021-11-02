@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5v4PC4HbhXj0TpIa+kfj4+8Ys3hk1or67e6yyHLCM+BCBzL6gkP3E/IbS8FAOZ1u1nbzt2FTuZAb7SpGlBT5Yw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe.iOS\\MyRecipe.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
