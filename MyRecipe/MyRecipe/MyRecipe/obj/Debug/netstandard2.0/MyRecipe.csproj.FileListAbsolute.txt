@@ -5,7 +5,6 @@ D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\bin\Debug\netstandard2.0\MyReci
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.csproj.AssemblyReference.cache
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.GeneratedMSBuildEditorConfig.editorconfig
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.AssemblyInfoInputs.cache
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.AssemblyInfo.cs
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.csproj.CoreCompileInputs.cache
@@ -13,3 +12,7 @@ D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\XamlC.
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.dll
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\ref\MyRecipe.dll
 D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\MyRecipe.pdb
+D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
+D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Github\MyRecipeApp\MyRecipe\MyRecipe\MyRecipe\obj\Debug\netstandard2.0\AppShell.xaml.g.cs

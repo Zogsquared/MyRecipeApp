@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipe.Android", "MyRecip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipe.iOS", "MyRecipe\MyRecipe.iOS\MyRecipe.iOS.csproj", "{E9162360-B76E-49CE-B471-D1FA11854D1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipe", "MyRecipe\MyRecipe\MyRecipe.csproj", "{E40FEE4F-D838-4B79-8469-F6C0C736C8F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyRecipe", "MyRecipe\MyRecipe\MyRecipe.csproj", "{E40FEE4F-D838-4B79-8469-F6C0C736C8F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
