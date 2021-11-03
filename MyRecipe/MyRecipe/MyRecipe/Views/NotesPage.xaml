@@ -23,7 +23,7 @@
             <DataTemplate>
                 <StackLayout>
                     <Label Text="{Binding Text}"
-                           FontSize="Medium"
+                           FontSize="Body"
                            TextColor="Black"/>
                     <Label Text="{Binding Date}"
                            TextColor="Silver"

@@ -2,14 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MyRecipe.Views.NoteEntryPage"
-             Title="Edit">
+             Title="">
     <!-- Layout children vertically -->
     <StackLayout Margin="20">
         <Editor Placeholder="Enter text here"
                 PlaceholderColor="Silver"
                 Text="{Binding Text}"
                 TextColor="Black"
-                HeightRequest="100" />
+                HeightRequest="50" />
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
             <Button Text="Save"
