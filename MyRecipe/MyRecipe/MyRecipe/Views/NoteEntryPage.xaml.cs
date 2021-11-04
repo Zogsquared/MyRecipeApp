@@ -41,7 +41,7 @@ namespace MyRecipe.Views
         async void OnSaveButtonClicked(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
-            note.Date = DateTime.UtcNow;
+            //note.Date = DateTime.UtcNow;
             if (!string.IsNullOrWhiteSpace(note.Text))
             {
                 await App.Database.SaveNoteAsync(note);

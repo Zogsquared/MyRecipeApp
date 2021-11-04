@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe.iOS\\MyRecipe.iOS.csproj",
         "projectName": "MyRecipe.iOS",
         "projectPath": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe.iOS\\MyRecipe.iOS.csproj",
-        "packagesPath": "C:\\Users\\shutm\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\shutm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -75,14 +75,14 @@
         "projectUniqueName": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe\\MyRecipe.csproj",
         "projectName": "MyRecipe",
         "projectPath": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe\\MyRecipe.csproj",
-        "packagesPath": "C:\\Users\\shutm\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\MyRecipeApp\\MyRecipe\\MyRecipe\\MyRecipe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\shutm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

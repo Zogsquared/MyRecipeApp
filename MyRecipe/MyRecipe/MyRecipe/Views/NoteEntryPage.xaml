@@ -5,11 +5,20 @@
              Title="">
     <!-- Layout children vertically -->
     <StackLayout Margin="20">
-        <Editor Placeholder="Enter text here"
+        <Editor Placeholder="Enter title here"
                 PlaceholderColor="Silver"
                 Text="{Binding Text}"
                 TextColor="Black"
+                FontSize="30"
+                FontAttributes="Bold"
+                HeightRequest="60" />
+
+        <Editor Placeholder="Recipe Author"
+                PlaceholderColor="Silver"
+                Text="{Binding Author}"
+                TextColor="Black"
                 HeightRequest="50" />
+
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
             <Button Text="Save"
