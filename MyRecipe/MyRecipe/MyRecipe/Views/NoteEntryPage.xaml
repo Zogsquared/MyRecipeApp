@@ -19,6 +19,18 @@
                 TextColor="Black"
                 HeightRequest="50" />
 
+        <Label Text="Ingredients" TextColor="Silver" FontSize="Subtitle" />
+
+        <Editor Text="{Binding Ingredients}"
+                TextColor="Black"
+                HeightRequest="100" />
+
+        <Label Text="Steps" TextColor="Silver" FontSize="Subtitle" />
+
+        <Editor Text="{Binding Steps}"
+                TextColor="Black"
+                HeightRequest="100" />
+
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">
             <Button Text="Save"
